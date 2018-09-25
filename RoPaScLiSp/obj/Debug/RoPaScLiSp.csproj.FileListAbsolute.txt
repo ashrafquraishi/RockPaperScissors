@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\Devcodecamp\RoPaScLiSp\RoPaScLiSp\obj\Debug\RoPaScLiSp.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Devcodecamp\RoPaScLiSp\RoPaScLiSp\obj\Debug\RoPaScLiSp.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Devcodecamp\RoPaScLiSp\RoPaScLiSp\bin\Debug\RoPaScLiSp.exe.config
+C:\Users\USER\Desktop\Devcodecamp\RoPaScLiSp\RoPaScLiSp\bin\Debug\RoPaScLiSp.exe
+C:\Users\USER\Desktop\Devcodecamp\RoPaScLiSp\RoPaScLiSp\bin\Debug\RoPaScLiSp.pdb
+C:\Users\USER\Desktop\Devcodecamp\RoPaScLiSp\RoPaScLiSp\obj\Debug\RoPaScLiSp.exe
+C:\Users\USER\Desktop\Devcodecamp\RoPaScLiSp\RoPaScLiSp\obj\Debug\RoPaScLiSp.pdb
